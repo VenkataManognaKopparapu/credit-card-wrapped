@@ -1,0 +1,5 @@
+{
+  "name": "Credit_Card_Wrapped",
+  "description": "An annual spending review application inspired by Spotify Wrapped. Upload your transaction history to get personalized insights, spending personas, and visualizations powered by Gemini AI.",
+  "requestFramePermissions": []
+}
