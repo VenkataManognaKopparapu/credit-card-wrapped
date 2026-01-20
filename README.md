@@ -1,3 +1,4 @@
+## Credit Card Wrapped ##
 Your spending story, Spotify Wrapped style. Upload CSV/PDF statements and get AI-powered insights. Built with Gemini 3.
 
 Credit Card Wrapped is a SaaS platform that delivers an annual, personalized story of users’ spending habits, visualizing top purchases, trends, and financial behaviors. Inspired by Spotify Wrapped, it transforms raw transaction data into interactive, playful insights.
